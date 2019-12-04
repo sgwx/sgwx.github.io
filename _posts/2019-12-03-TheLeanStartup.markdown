@@ -4,7 +4,7 @@ title:      "The Lean Startup"
 subtitle:   "读精益创业给我带来的反思"
 date:       2019-12-03 22:00:00
 author:     "ShangGuanWenXiong"
-header-img: "img/post-bg-LeanStartup.png"
+header-img: "img/post_img/lean_startup.jpg"
 tags:
     - Study
 ---

@@ -4,7 +4,7 @@ title:      "Hello Sgwx"
 subtitle:   "Hello World, Hello Blog"
 date:       2019-12-02 22:00:00
 author:     "ShangGuanWenXiong"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post_img/hello_blog.jpg"
 tags:
     - Study
 ---
